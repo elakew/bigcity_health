@@ -5,4 +5,4 @@ In this project, I conducted data cleaning and created a visualization using a d
 
 I completed this project in Python and employed the pandas and Matplotlib libraries. Thank you and enjoy!
 
-Original dataset: https://data.world/health/big-cities-health/workspace/project-summary?agentid=health&datasetid=big-cities-health
+Original dataset: https://data.world/health/big-cities-health
